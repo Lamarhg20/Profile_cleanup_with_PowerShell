@@ -3,6 +3,12 @@
 <h1>Profile_cleanup_with_PowerShell</h1>
 <h2>Description</h2>
 These are power scripts that will clean up old user profiles. Always make a registry back up when making changes to registry and always run script in a test environment to see how they will impact you system before implementing <br/>
+
+<h2>Environments Used </h2>
+
+- <b>Windows 10</b> 
+
+
 <h2>How to Use:</h2>
 
 -Before using, edit the PowerShell script. Fill in your Domain name where ever prompted. <br/> 
