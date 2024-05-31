@@ -25,7 +25,7 @@ These are power scripts that will clean up old user profiles. Always make a regi
 -change the folder name to any folder in the user profile path you want it to check for. by default is set to "OneDrive". <br/>
 <br/>
 <br/>
--<b>Folder_last_modified_cleanup.ps1</b> 
+-<b>Profile_Cleanup_last_login_from_registry.ps1</b> 
 -Before using, edit the PowerShell script.# out Remove-Item $profilePath -Force -Recurse and Remove-Item $profileImagePath -Force -Recurse to see if script returns error before running. Add any profile you want it to ignore. Change the "domain" to your domain name.<br/> 
 
 
